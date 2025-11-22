@@ -1,0 +1,31 @@
+/*
+ * {
+ text-align: center;
+ color: blue;
+ }
+ */
+
+#p1, #p3 {
+  text-align: left;
+  color: green;
+}
+
+h3 {
+  text-align: left;
+  color: green;
+}
+
+.c1 {
+  text-align: center;
+  color: #b29b65;
+}
+
+h2.h2 {
+  text-align: center;
+  color: white;
+}
+.large {
+  text-align: center;
+  font-family: JetBrainsMono NF;
+  font-size: xxx-large;
+}
